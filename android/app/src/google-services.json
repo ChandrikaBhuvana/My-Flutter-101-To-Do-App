@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144388915883",
+    "project_id": "todo-app-f9426",
+    "storage_bucket": "todo-app-f9426.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144388915883:android:4d7c1b2ac270d824952dee",
+        "android_client_info": {
+          "package_name": "com.bhuvana.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144388915883-p94g61t4noqng2jucd3ff02ggs37mjln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXss7YPSJqPH9kOOzJZCXpLyfkStsDaiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144388915883-p94g61t4noqng2jucd3ff02ggs37mjln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
