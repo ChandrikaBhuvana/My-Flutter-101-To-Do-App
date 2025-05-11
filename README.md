@@ -70,8 +70,6 @@ flutter run
 
 ## 📸 UI Screenshots
 
-## 📸 UI Screenshots
-
 ![Home Screen]([https://your-link-to-home-screen.png](https://github.com/ChandrikaBhuvana/My-Flutter-101-To-Do-App/blob/main/assets/Screenshot%202025-05-11%20141715.png))  
 ![Add Task Screen]([https://your-link-to-edit-task.png](https://github.com/ChandrikaBhuvana/My-Flutter-101-To-Do-App/blob/main/assets/Screenshot%202025-05-11%20142024.png))  
 ![Edit Task Screen]([https://your-link-to-add-task.png](https://github.com/ChandrikaBhuvana/My-Flutter-101-To-Do-App/blob/main/assets/Screenshot%202025-05-11%20141845.png))  
